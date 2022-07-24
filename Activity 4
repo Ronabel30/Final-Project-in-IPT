@@ -1,0 +1,215 @@
+Menu
+<DOCTYPE html>
+<html>
+<head>
+
+<div style="background: lightblue; font-size:20px; padding: 10px; border"1px solid green; margin: 10px;">
+<p><b> MENU </p>
+</div>
+
+<body background= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\its.pink.jpg" style= "background-size: cover" > 
+
+
+
+<a class='favorite-icon' href="favorites.html"> 
+<ion-icon name="bandage-outline"></ion-icon>
+</a>
+<hr>
+<p> <b> FAVORITE </b> <br> This is where you can see all of my favorites website. <br> The definition of a favorite is a person or thing that is best liked 
+or treated in a special way. <br>An example of a favorite is someone liking the color blue more than other colors.<br> 
+An example of a favorite is a particular television show that you really don't want to miss.</p> </hr>
+<hr>
+<a class='user-icon' href="user.html"> 
+<ion-icon name="woman-outline"></ion-icon> </a>
+<p> <b> USER'S INFORMATION </b> <br> A user is a person who utilizes a computer or network service.<br>
+ A user often has a user account and is identified to the system by a username. <br>
+ Other terms for username include login name, screenname, account name, nickname and handle, <br>
+ which is derived from the identical citizens band radio term. </p> </hr> 
+<hr>
+<a class='family-icon' href="family.html"> 
+<ion-icon name="home-outline"></ion-icon> </a>
+<p> <b> family </b><br> Family will tell you what you do not want to hear,<br>
+ but they do it out of love to help you grow.<br>
+ Another reason family is so important is because they can teach us to know our family history,<br>
+ which can shape our persona into something positive and give us a sense of direction. </p> </hr> <hr></hr>
+ 
+
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+
+<style>
+     .favorite-icon{
+  font-size: 64px;
+  color: blue;
+}
+
+     .user-icon {
+  font-size: 64px;
+  color: darkpink;
+}
+
+     .family-icon {
+  font-size: 64px;
+  color: yellow;
+}
+
+
+</style>
+</body>
+</head>
+</html>
+
+user 
+<DOCTYPE html>
+<html>
+<header>
+		<hr>
+		<h1>USER INFORMATION</h1> </hr>
+	</header>
+
+  <figure>
+    <img src="C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\265629770_1020038078554681_5774044946168118236_n.jpg" alt="user" width= 250" height="200" />
+  </figure>
+  <header>
+    <hr> <h1> Ronabel B. Robles </hr>
+      
+  </header>
+ 
+ <style>
+
+	body{
+		font-family:poppins;
+		color:#000000;
+		margin:50px;
+		}
+	div{
+		text-align:center;
+		background-color:#116530;
+		font-size:14pt;
+		height:100px;
+		width:100px;
+		border:3px solid #ffff
+		}
+	#Box1{
+		position:absolute;
+		top:450px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box2{
+		position:absolute;
+		top:450px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+	#Box3{
+		position:absolute;
+		top:500px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box4{
+		position:absolute;
+		top:500px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+	#Box5{
+		position:absolute;
+		top:550px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box6{
+		position:absolute;
+		top:550px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+	#Box7{
+		position:absolute;
+		top:600px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box8{
+		position:absolute;
+		top:600px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+	#Box9{
+		position:absolute;
+		top:650px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box10{
+		position:absolute;
+		top:650px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+		
+
+     .menu-icon{
+	 position:absolute;
+  font-size: 64px;
+   top:750px;
+  left:350px;
+  color: green;
+}
+
+
+	</style>
+	
+</div>
+
+<body background= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\love.jpg" style= "background-size: cover">
+	<div id="Box1">Age:</div>
+	<div id="Box2">21</div>
+	<div id="Box3">Date of birth:</div>
+	<div id="Box4">Nov. 30, 2001</div>
+	<div id="Box5">Civil Status:</div>
+	<div id="Box6">Single</div>
+	<div id="Box7">Religion:</div>
+	<div id="Box8">Roman Catholic</div>
+	<div id="Box9">Citizenship:</div>
+	<div id="Box10">Filipino</div>
+
+<p style="padding: 20px;"></p>
+
+
+</body>
+ <a class='menu-icon' href="menu.html"> 
+<ion-icon name="pizza-outline"></ion-icon>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</html>
