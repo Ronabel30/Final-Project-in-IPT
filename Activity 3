@@ -1,0 +1,60 @@
+<DOCTYPE html>
+<html>
+<head>
+<center>
+<div style="background: lightpink; font-size:20px; padding: 10px; border"1px solid lightgray; margin: 10px;">
+<p> My Favorites website</p>
+</div>
+<div style="background: lightgreen; font-size:20px; padding: 10px; border"1px solid lightgray; margin: 10px;">
+<p> THE HTML PARCTICE </p>
+</div>
+</head>
+<body background= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\its.blue.jpg" style= "background-size: cover">
+
+<hr> 
+<a href= "https://classroom.google.com/h" target="_blank"> 
+      <img src= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\class.jpg" alt ="google classroom" width= 150" height="90" </a> 
+<p style="font-size:150%;"> GOOGLE CLASSROOM </p>
+<p> Ang Google Classroom ay isang libreng blended learning platform na binuo ng Google para sa mga institusyong pang-edukasyon na naglalayong pasimplehin ang paggawa, pamamahagi, at pagmarka ng mga takdang-aralin. </p>
+</hr> <hr> 
+<a href= "https://www.mangago.me/" target="_blank"  > 
+      <img src= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\manga.png" alt ="manga.go" width= 150" height="90" </a> 
+<p style="font-size:150%;"> MANGA.GO </p>
+<p> website kung saan pwede kang magbasa ng mga paborito mong manga/manhwa/manhua ng libre at walng ads.</p>
+</hr> <hr>
+<a href= "https://www.youtube.com/" target="_blank" > 
+      <img src= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\youtube.jpg" alt ="YOUTUBE" width= 150" height="90" </a> 
+<p style="font-size:150%;"> YOUTUBE </p>
+<p> Ang YouTube ay isang serbisyo sa pagbabahagi ng video kung saan maaaring manood, mag-like, magbahagi, magkomento at mag-upload ng sarili nilang mga video ang mga user..</p>
+</hr> <hr>
+<a href= "https://www.pinterest.ph/" target="_blank" > 
+      <img src= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\pinterest.jpg" alt ="Pinterest" width= 150" height="90" </a> 
+<p style="font-size:150%;"> PINTEREST </p>
+<p> Ang Pinterest ay isang visual na discovery engine para sa paghahanap ng mga ideya tulad ng mga recipe, inspirasyon sa bahay at istilo, at higit pa. Sa bilyun-bilyong Pins sa Pinterest, palagi kang makakahanap ng mga ideyang magbibigay inspirasyon. </p>
+</hr><hr>
+<a href= "tps://canvas.instructure.com/" target="_blank" > 
+      <img src= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\canvas-icon.jpg" alt ="CANVAS" width= 150" height="90" </a> 
+<p style="font-size:150%;"> CANVAS </p>
+<p> Ang Canvas ay isang web-based na learning management system, o LMS. Ito ay ginagamit ng mga institusyon ng pag-aaral, tagapagturo, at mga mag-aaral upang ma-access at pamahalaan ang mga materyales sa pag-aaral ng online na kurso at makipag-usap tungkol sa pagpapaunlad ng kasanayan at tagumpay sa pagkatuto.</p>
+</hr> <hr> </hr>
+</center>
+<a class='menu-icon' href="menu.html"> 
+<ion-icon name="pizza-outline"></ion-icon>
+<a class='user-icon' href="user.html"> 
+<ion-icon name="woman-outline"></ion-icon> </a>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+<style>
+     .menu-icon{
+  font-size: 64px;
+  color: green;
+}
+
+     .user-icon {
+  font-size: 64px;
+  color: darkpink;
+}
+
+</body>
+</html>
