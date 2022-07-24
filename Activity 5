@@ -1,0 +1,339 @@
+family 
+<DOCTYPE html>
+<html>
+
+<title> My Family</title>
+<head>
+<style>
+
+	body{
+		font-family:'Brush Script MT', cursive;
+		color:#000000;
+		margin:50px;
+		}
+	div{
+		text-align:center;
+		background-color:#116530;
+		font-size:15pt;
+		height:100px;
+		width:100px;
+		border:3px solid #ffff
+		}
+	#Box1{
+		position:absolute;
+		top:50px;
+		left:50px;
+		height:350px;
+		width:300px;
+		background-color:#FFFCD6;
+		}
+	#Box2{
+	position:absolute;
+	top:50px;
+	left:450px;
+	height:350px;
+	width:300px;
+	background-color:#AEA0DB;
+	}
+	#Box3{
+	position:absolute;
+	top:50px;
+	left:850px;
+	height:350px;
+	width:300px;
+	background-color:#EE989A;
+	}
+	#Box4{
+	position:absolute;
+	top:450px;
+	left:50px;
+	height:350px;
+	width:300px;
+	background-color:#D4F1F9;
+	}
+	#Box5{
+	position:absolute;
+	top:450px;
+	left:450px;
+	height:350px;
+	width:300px;
+	background-color:#FFCFD6;
+	}
+	#Box6{
+	position:absolute;
+	top:450px;
+	left:850px;
+	height:350px;
+	width:300px;
+	background-color:#D3E0BA;
+	}
+	  .father-icon{
+  font-size: 34px;
+  color: orange;
+}
+
+     .mother-icon{
+  font-size: 34px;
+  color: darkpink;
+}
+
+     .child1-icon{
+  font-size: 34px;
+  color: pink;
+}
+
+     .child2-icon{
+  font-size: 34px;
+  color: green;
+}
+
+     .child3-icon {
+  font-size: 34px;
+  color: red;
+}
+
+     .cats-icon {
+  font-size: 34px;
+  color: yellow;
+}
+.menu-icon{
+	 position:absolute;
+  font-size: 64px;
+   top:850px;
+  left:50px;
+  color: green;
+</style>
+</head>
+
+<body background= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\588a9ee242ec5a89b6567e53f9a01400.jpg" style= "background-size: cover" >
+	  <div id="box1"> Father 
+    <img src="C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\31158_117267574980892_4538160_n.jpg"
+	alt="father" 
+	width= "300" 
+	height="250"
+	<p> Homer Robles</p>
+      <a class='father-icon' href="father.html"> 	
+	<ion-icon name="eye-outline"></ion-icon> </a>
+  </div>
+
+
+	<div id="Box2">Mother
+	<img src="C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\79006015_1424336084414165_6338628682373922816_n.jpg"
+	alt="mother" 
+	width= "300" 
+	height="250"
+	<p> Florencia Robles</p>
+      <a class='mother-icon' href="mother.html">	
+	<ion-icon name="eye-outline"></ion-icon></a>
+  </div>
+  
+	<div id="Box3">First Child
+	<img src="C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\258177179_4476076005775103_4441397808200389454_n.jpg"
+	alt="first child" 
+	width= "300" 
+	height="250"
+	<p> Monaliza Robles</p>
+      <a class='child1-icon' href="child1.html">	
+	<ion-icon name="eye-outline"></ion-icon></a>
+  </div>
+  
+	<div id="Box4">Me 
+	<img src="C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\280294241_528102618991487_3396027525331631556_n.jpg"
+	alt="fater" 
+	width= "300" 
+	height="250"
+	<p> Ronabel Robles</p>
+      <a class='child2-icon' href="child2.html">	
+	<ion-icon name="eye-outline"></ion-icon> </a> </div>
+  
+	<div id="Box5">Third Child<img src="C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\280583691_353716890186349_6998995511909894524_n.jpg"
+	alt="fater" 
+	width= "300" 
+	height="250"
+	<p> Monica Robles</p>
+      <a class='child3-icon' href="child3.html">	
+	<ion-icon name="eye-outline"></ion-icon> </a> 
+  </div>
+  
+	<div id="Box6">Pets<img src="C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\259346961_679858626367848_2518379582660501113_n1.jpg"
+	alt="fater" 
+	width= "300" 
+	height="250"
+	<p> Anak Sa Labas</p>
+      <a class='cats-icon' href="cats.html">	
+	<ion-icon name="eye-outline"></ion-icon> </a>
+  </div>
+	
+	
+	
+	
+	<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+
+</body>
+ <a class='menu-icon' href="menu.html"> 
+<ion-icon name="pizza-outline"></ion-icon>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</html>
+	
+
+family member 
+
+<DOCTYPE html>
+<html>
+
+<header>
+		<hr>
+		<h1>First Child </h1> </hr>
+	
+
+  <figure>
+    <img src="C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\258177179_4476076005775103_4441397808200389454_n.jpg" 
+	alt="Child1"
+	width= 250" 
+	height="200" 
+	 
+	/>
+  </figure>
+  
+    <hr> <h1> Monaliza B. Robles </hr>
+      
+  </header>
+  
+ <style>
+
+	body{
+		font-family:poppins;
+		color:#000000;
+		margin:50px;
+		}
+	div{
+		text-align:center;
+		background-color:#116530;
+		font-size:14pt;
+		height:100px;
+		width:100px;
+		border:3px solid #ffff
+		}
+	#Box1{
+		position:absolute;
+		top:450px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box2{
+		position:absolute;
+		top:450px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+	#Box3{
+		position:absolute;
+		top:500px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box4{
+		position:absolute;
+		top:500px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+	#Box5{
+		position:absolute;
+		top:550px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box6{
+		position:absolute;
+		top:550px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+	#Box7{
+		position:absolute;
+		top:600px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box8{
+		position:absolute;
+		top:600px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+	#Box9{
+		position:absolute;
+		top:650px;
+		left:50px;
+		height:30px;
+		width:350px;
+		background-color:#FFFCD6;
+		}
+	
+	#Box10{
+		position:absolute;
+		top:650px;
+		left:450px;
+		height:30px;
+		width:150px;
+		background-color:#FFFCD6;
+		}
+		 .family-icon {
+	 position:absolute;
+  font-size: 64px;
+  top:750px;
+  left:450px;
+  color: yellow;
+}
+}
+	</style>
+
+
+<body background= "C:\Users\Chase Kalyx\OneDrive\Desktop\ronabel\e1d200b65875b572a39d95907e9537f2.jpg" style= "background-size: cover">
+	<div id="Box1">Age:</div>
+	<div id="Box2">23</div>
+	<div id="Box3">Date of birth:</div>
+	<div id="Box4">March 18, 1999</div>
+	<div id="Box5">Civil Status:</div>
+	<div id="Box6">single</div>
+	<div id="Box7">Religion:</div>
+	<div id="Box8">Roman Catholic</div>
+	<div id="Box9">Citizenship:</div>
+	<div id="Box10">Filipino</div>
+
+
+<p style="padding: 20px;"></p>
+ 
+  
+
+<body>
+<a class='family-icon' href="family.html"> 
+<ion-icon name="home-outline"></ion-icon> </a>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</html>
